@@ -1,2 +1,6 @@
 version1
 version2
+--when fire 50% ,find a bug here
+debug ok
+--bug fitted
+version3
